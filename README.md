@@ -1,9 +1,9 @@
 ## Hi, I'm Jo
 
-🏛️BIS Multimedia student at the University of Pretoria
-💻 I redesign websites i find online to stay consistent
-🎥 I freelance video creation
-🎧ྀི Music Lover
+🏛️BIS Multimedia student at the University of Pretoria</br>
+💻 I redesign websites i find online to stay consistent</br>
+🎥 I freelance video creation</br>
+🎧ྀི Music Lover</br>
 
 ## ᯤ Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/your.average.jo_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joanna-reardon) 
