@@ -77,6 +77,6 @@
 
 <div align="center">
 
-![Views](https://visitcount.itsvg.in/api?id=Jo-Reardon&icon=0&color=0)
+![Views](https://komarev.com/ghpvc/?username=Jo-Reardon&color=0077b5&style=for-the-badge)
 
 </div>
