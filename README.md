@@ -55,12 +55,11 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jo-Reardon&theme=neon&show_icons=true" />
-<img height="165" src="https://nirzak-streak-stats.vercel.app/?user=Jo-Reardon&theme=neon" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jo-Reardon&show_icons=true&theme=radical&hide_border=true" />
 
-<br/><br/>
+<br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-Reardon&theme=neon&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-Reardon&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
