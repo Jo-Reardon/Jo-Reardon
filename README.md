@@ -55,11 +55,21 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jo-Reardon&show_icons=true&theme=radical&hide_border=true" />
+<a href="https://github-stats-extended.vercel.app/api?username=Jo-Reardon&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight">
+  <img src="https://github-stats-extended.vercel.app/api?username=Jo-Reardon&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
+</a>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-Reardon&layout=compact&theme=radical&hide_border=true" />
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=Jo-Reardon&layout=donut&langs_count=4&theme=tokyonight">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Jo-Reardon&layout=donut&langs_count=4&theme=tokyonight" alt="Top Languages" />
+</a>
+
+<br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Jo-Reardon&theme=cobalt&timezone=GMT%2B2&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</a>
 
 </div>
 
