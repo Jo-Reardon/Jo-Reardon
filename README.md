@@ -3,7 +3,7 @@
 🏛️BIS Multimedia student at the University of Pretoria</br>
 💻 I redesign websites i find online to stay consistent</br>
 🎥 I freelance video creation</br>
-🎧ྀི Music Lover</br>
+🎧 Music Lover</br>
 
 ## ᯤ Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/your.average.jo_) </br>
